@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport">
+
+    
+    <style>
+      body {
+        background-color: black
+      }
+      
+      .jpg {
+        margin-left: 20px
+      }
+      
+      .text-white {
+        color:white ;
+        text-align:center
+      }
+      
+    </style>
+
+    <title>nikotin</title>
+  </head>
+  <body>
+    <div class="start">
+      <h5 class="text-white"> • Hello my name is Mohammad Nikotin -</h5>
+    </div>
+    
+    <div class="start">
+      <h3 class="text-white"> • Winston •</h3>
+    </div>
+    
+    <div class="jpg">
+      <img src="photo.jpg" class="jpg" alt="..." style="width: 300px; height: 309px">
+    </div>
+    
+    <div class="start">
+      <h4 class="text-white"> • I live in Tehran •</h4>
+    </div>
+    
+    <div class="start">
+      <h4 class="text-white"> 📞  My tel  +98 990 821 5898 </h4>
+    </div>
+    
+    <div class="start">
+      <h4 class="text-white"> ♥️  My love is Mahyar in Esfahan </h4>
+    </div>
+    
+    
+   
+ <div class="jpg">
+      <img src="mary.jpg" class="jpg1" alt="..." style="width: 320px; height: 120px">
+    </div>
+   
+   
+   <p style="color: greenyellow ; text-align: center">------- Powerd By 0x1381 -------</p>
+   
+  </body>
+</html>
